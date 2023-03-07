@@ -1,10 +1,8 @@
 package io.javabrains.reactiveworkshop;
 
-import java.io.IOException;
-
 public class Exercise4 {
 
-    public static void main(String[] args) throws IOException {
+    public static void main(String[] args) {
 
         // Use ReactiveSources.intNumberMono()
 
